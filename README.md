@@ -1,5 +1,5 @@
 # Hotel Booking Data Analysis Project
- ![Banner Image](insert_banner_image_link_here)
+ ![Banner Image](https://github.com/nazims-flow/Hotel-Booking-Data-Analysis-Project/blob/main/booking_banner.png)
  Welcome to the Hotel Booking Data Analysis project! In this project, we explore and analyze a
  dataset containing hotel booking information to derive insights and patterns that can be useful
  for understanding booking trends, customer behavior, and other factors affecting the hospitality
