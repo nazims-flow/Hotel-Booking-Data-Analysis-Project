@@ -43,6 +43,7 @@ In addition to the previous questions, the following inquiries were also explore
  or other factors?
  ![Parking Requirement Query](https://github.com/nazims-flow/Hotel-Booking-Data-Analysis-Project/blob/main/query%20images/q9.jpeg)
  10. What are the main reservation statuses (e.g., confirmed, canceled, checked-in), and how do they change over time?
+
  ![Reservation Statuses Query](https://github.com/nazims-flow/Hotel-Booking-Data-Analysis-Project/blob/main/query%20images/q10.jpeg)
  11. What is the distribution of guests based on the number of adults, children, and stays on
  weekend nights?
