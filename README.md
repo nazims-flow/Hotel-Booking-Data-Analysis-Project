@@ -10,7 +10,7 @@
  By leveraging SQL queries and data analysis techniques, we aim to answer various questions
  and uncover valuable insights from the dataset.
  ## Dataset Overview
- The dataset used in this project consists of [insert number] rows of data, representing hotel
+ The dataset used in this project consists of 11931 rows of data, representing hotel
  bookings. Before analysis, the dataset underwent a data cleaning process to handle missing
  values (NULLs) and ensure data quality.
  ## Analysis Questions
