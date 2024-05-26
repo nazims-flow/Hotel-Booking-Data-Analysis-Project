@@ -13,6 +13,8 @@
  The dataset used in this project consists of 11931 rows of data, representing hotel
  bookings. Before analysis, the dataset underwent a data cleaning process to handle missing
  values (NULLs) and ensure data quality.
+ ## ERD
+ ![ERD](https://github.com/nazims-flow/Hotel-Booking-Data-Analysis-Project/blob/main/ERD_bookings.png)
  ## Analysis Questions
  To guide our analysis, we formulated several key questions to explore and address using the
  dataset:
