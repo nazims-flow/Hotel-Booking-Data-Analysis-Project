@@ -45,6 +45,7 @@ In addition to the previous questions, the following inquiries were also explore
  10. What are the main reservation statuses (e.g., confirmed, canceled, checked-in), and how do they change over time?
 
  ![Reservation Statuses Query](https://github.com/nazims-flow/Hotel-Booking-Data-Analysis-Project/blob/main/query%20images/q10.jpeg)
+ 
  11. What is the distribution of guests based on the number of adults, children, and stays on
  weekend nights?
  ![Guest Distribution Query](https://github.com/nazims-flow/Hotel-Booking-Data-Analysis-Project/blob/main/query%20images/q11.jpeg)
